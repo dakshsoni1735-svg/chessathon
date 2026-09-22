@@ -1,6 +1,6 @@
-# CityTrek ♟️
+# citytrek
 
-CityTrek is a chess bot built for the **Optiver AI Chessathon**.
+ citytrek is a chess bot built for the **Optiver AI Chessathon**.
 
 It combines **Alpha-Beta pruning** with a **trained neural network** for board evaluation, using the network to supplement search rather than relying entirely on search depth.
 
